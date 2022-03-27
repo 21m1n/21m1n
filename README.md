@@ -22,6 +22,4 @@ I am [Luo Zimin](https://21m1n.github.io/), a Data Science graduate currently ba
 
 ### Github Stats
 
-![21m1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=21m1n&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21m1n)
+![21m1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula)
