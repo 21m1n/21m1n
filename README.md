@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there 👋
 
 <!--
 **21m1n/21m1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Luo Zimin, a Data Science graduate currently based in 🇸🇬 Singapore.
+
+### Things I work with:
+
+
