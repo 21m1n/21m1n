@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am [Zimin](https://21m1n.github.io/), a Data Science graduate currently based in 🇸🇬 Singapore. I'm a big fan of the Open Source Community, and I primarily use `python` and `R` for data analysis and solving machine learning problems. Sometimes, I also use `SQL`, `C++`, and basic `Shell Script`. Recently, I started to learn `JavaScript` for better interactive data visualizations. 
+I am [Zimin](https://21m1n.github.io/), a Data Science graduate currently based in 🇸🇬 Singapore. 
 
 ## Things I work with:
 
