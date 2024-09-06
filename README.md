@@ -32,8 +32,6 @@ I am [Zimin](https://21m1n.github.io/), a Data Science graduate currently based 
 
 ## Github Stats
 <p align="center">
-  <img height=200 align="center" src="https://gh-readme-stats-git-main-rozimin-gmailcoms-projects.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula&border_radius=0" />
-</p>
-<p align="center">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=21m1n&theme=dracula&border_radius=0)](https://git.io/streak-stats" />
+  <img height=150 align="center" src="https://gh-readme-stats-git-main-rozimin-gmailcoms-projects.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula&border_radius=0" />
+  <img height=150 align="center" src="https://streak-stats.demolab.com?user=21m1n&theme=dracula&border_radius=0)](https://git.io/streak-stats" />
 </p>
