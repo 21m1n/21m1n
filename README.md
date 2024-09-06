@@ -8,28 +8,28 @@ For me, data science isn’t just about writing code—it’s about uncovering t
 * 📚 I'm trying to learn something about everything and everything about something.
 
 ---
-<p align="center">
-    <img src="https://img.shields.io/badge/-HuggingFace-white?style=for-the-badge&logo=HuggingFace&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikit-learn&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/SciPy-white?style=for-the-badge&logo=SciPy&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Plotly-white?style=for-the-badge&logo=plotly&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/R-white?style=for-the-badge&logo=r&logoColor=black"></img>
-    <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"></img>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&logo=HuggingFace&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=SciPy&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 </p>
 
-
 ---
+
 <p align="center">
-  <img height=150 align="center" src="https://gh-readme-stats-git-main-rozimin-gmailcoms-projects.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula&border_radius=0&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-  <img height=150 align="center" src="https://streak-stats.demolab.com?user=21m1n&theme=dracula&border_radius=0&background=ffffff&ring=000000&currStreakLabel=000000&dates=000000&sideNums=000000&currStreakNum=000000&fire=000000&sideLabels=000000&stroke=000000"/>
+  <img height=150 align="center" src="https://gh-readme-stats-git-main-rozimin-gmailcoms-projects.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula&border_radius=0&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img height=150 align="center" src="https://streak-stats.demolab.com?user=21m1n&theme=dracula&border_radius=0&background=000000&ring=ffffff&currStreakLabel=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&sideLabels=ffffff&stroke=ffffff"/>
 </p>
