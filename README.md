@@ -32,7 +32,7 @@ I am [Zimin](https://21m1n.github.io/), a Data Science graduate currently based 
 
 ## Github Stats
 
-![21m1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula)
+![21m1n's GitHub stats](https://github-readme-stats-git-main-rozimin-gmailcoms-projects.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=21m1n&theme=dark&background=000000)
 
