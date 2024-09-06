@@ -1,11 +1,13 @@
-<h1 align="center">Hello there 👋 </h1>
+<h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛e 👋 </h1>
+
 I’m Zimin, a data scientist who thrives at the intersection of meaning and innovation. 🌌 I approach data much like a thinker contemplates the nature of existence—by constantly challenging assumptions, seeking patterns, and uncovering the hidden truths that drive impactful insights.
 
 For me, data science isn’t just about writing code—it’s about uncovering the “why” behind the numbers. 🧠 Every dataset is a puzzle, and with the right perspective and tools, we can unlock solutions that resonate beyond the immediate problem. After all, with a strong sense of purpose, we can bear almost any challenge—and that’s how I approach my work: with curiosity, determination, and a bit of machine learning magic. ⚡
 
-* 🤗 I'm passionate about NLP.
-* 👾 I'm currently working on LLM apps and exploring the realm of responsible AI.
-* 📚 I'm trying to learn something about everything and everything about something.
+* 🤗 passionate about NLP.
+* 👾 currently working on LLM apps and exploring the realm of responsible AI.
+* 📚 a voracious reader and an occasional filmmaker.
+* 🪄 trying to learn something about everything and everything about something.
 
 ---
 
