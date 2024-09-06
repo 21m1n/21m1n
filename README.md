@@ -1,4 +1,4 @@
-<h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛e 👋 </h1>
+<h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎 👋 </h1>
 
 I’m Zimin, a data scientist who thrives at the intersection of meaning and innovation. 🌌 I approach data much like a thinker contemplates the nature of existence—by constantly challenging assumptions, seeking patterns, and uncovering the hidden truths that drive impactful insights.
 
