@@ -32,8 +32,7 @@ I am [Zimin](https://21m1n.github.io/), a Data Science graduate currently based 
 
 ## Github Stats
 
-![21m1n's GitHub stats](https://gh-readme-stats-lfgh.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula)
+  <img height=200 align="center" src="https://gh-readme-stats-lfgh.vercel.app/api?username=21m1n&count_private=true&show_icons=true&theme=dracula" />
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=21m1n&theme=dark&background=000000)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)-->
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=21m1n&theme=dracula&background=000000" />
