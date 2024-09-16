@@ -5,7 +5,7 @@ I’m Zimin, a data scientist who thrives at the intersection of meaning and inn
 For me, data science isn’t just about writing code—it’s about uncovering the “why” behind the numbers. 🧠 Every dataset is a puzzle, and with the right perspective and tools, we can unlock solutions that resonate beyond the immediate problem. After all, with a strong sense of purpose, we can bear almost any challenge—and that’s how I approach my work: with curiosity, determination, and a bit of machine learning magic. ⚡
 
 * 🤗 passionate about NLP.
-* 👾 currently working on LLM apps and exploring the realm of responsible AI.
+* 👾 currently working on LLM apps and exploring the realm of [responsible AI](https://github.com/21m1n/responsible_AI).
 * 📚 a voracious reader and an occasional filmmaker.
 * 🪄 trying to learn something about everything and everything about something.
 
